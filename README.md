@@ -1,5 +1,9 @@
 # Awesome BitVM
 
+![image](https://github.com/22388o/awesome-bitvm/assets/83122757/9015d3ec-fea9-497c-9c68-c0bd98221b86)
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 A curated list of resources around  BitVM
 
 ## About
@@ -7,6 +11,13 @@ A curated list of resources around  BitVM
 BitVM is a computing paradigm to express Turing-complete Bitcoin contracts. This requires no changes to the network’s consensus rules.
 
 Committing to a large program in a Taproot address requires significant amounts of off-chain computation and communication, however the resulting on-chain footprint is minimal. As long as both parties collaborate, they can perform arbitrarily complex, stateful off-chain computation, without leaving any trace in the chain. On-chain execution is required only in case of a dispute.
+
+## Potential Use Case
+
+- Complex smart contracts
+- Prediction Markets
+- Privacy
+
 
 ## Resources
 
@@ -22,6 +33,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [Things bitvm needs](https://github.com/supertestnet/things-bitvm-needs)
 - [BitVM vs RGB](https://stacker.news/items/294108)
 - [Nand Game](https://nandgame.com/)
+- [BitVM Illustrated](https://x.com/BTCillustrated/status/1712440417524810227?s=20)
 
 ## Tech Overview
 
@@ -34,6 +46,7 @@ TBD
 - [The Protocol: Bitcoin Might Get Ethereum-Style Smart Contracts Under ‘BitVM’ Plan](https://www.coindesk.com/tech/2023/10/11/the-protocol-bitcoin-might-get-ethereum-style-smart-contracts-under-bitvm-plan/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 - [BitVM: A Computational Revolution in Bitcoin](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/)
 - [Bitcoin Smart Contracts and BitVM ](https://www.youtube.com/watch?v=oBb9NBxaMfs)
+- [Is BitVM the Next Evolution for Smart Contracts on Bitcoin?](https://blog.bitfinex.com/education/is-bitvm-the-next-evolution-for-smart-contracts-on-bitcoin/)
 
 ## Videos
 
