@@ -17,6 +17,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - Complex smart contracts
 - Prediction Markets
 - Privacy
+- Multisig
 
 
 ## Resources
