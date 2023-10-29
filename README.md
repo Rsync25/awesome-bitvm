@@ -1,8 +1,9 @@
 # Awesome BitVM 💻
 
-![image](https://github.com/22388o/awesome-bitvm/assets/83122757/9015d3ec-fea9-497c-9c68-c0bd98221b86)
-
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+
+![image](https://github.com/22388o/awesome-bitvm/assets/83122757/9015d3ec-fea9-497c-9c68-c0bd98221b86)
 
 A curated list of resources around  BitVM
 
