@@ -63,6 +63,8 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [Bitcoin Smart Contracts and BitVM ](https://www.youtube.com/watch?v=oBb9NBxaMfs)
 - [Is BitVM the Next Evolution for Smart Contracts on Bitcoin?](https://blog.bitfinex.com/education/is-bitvm-the-next-evolution-for-smart-contracts-on-bitcoin/)
 - [Bitcoin’s Fifteen Years Of Evolution: A Look Beyond the Original Whitepaper ](https://bitcoinmagazine.com/technical/bitcoins-fifteen-years-of-evolution-a-look-beyond-the-original-whitepaper-)
+- [Lightning Network explainer](https://lightningnetwork.plus/posts/450)
+- [Base58 explainer](https://twitter.com/base58btc/status/1711728898730242112)
 
 ## Videos
 
