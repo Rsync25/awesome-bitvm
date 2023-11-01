@@ -37,6 +37,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [Nand Game](https://nandgame.com/)
 - [BitVM Illustrated](https://x.com/BTCillustrated/status/1712440417524810227?s=20)
 - [BitVM Builders - Telegram group](https://t.me/bitVM_chat)
+- [Bitcoin Script Interpreter](https://bitvm.github.io/BitVM/interpreter/)
 
 ## Tech Overview
 
