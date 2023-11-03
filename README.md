@@ -27,7 +27,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [BitVM Online](https://supertestnet.github.io/tapleaf-circuits/)
 - [bitcoin-dev BitVM: Compute Anything on Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/021997.html)
 - [BitVM Primer](https://github.com/twhit223/bitvm_primer)
-- [Bitcoin scripts](https://github.com/BitVM/bitcoin-scripts)
+- [BitVM Toy Implementation](https://github.com/BitVM/BitVM)
 - [BitVM FAQ](https://github.com/PraiseTheMithra/BitVm-FAQ)
 - [Simple Explanation of BitVM](https://github.com/fiksn/bitvm-explained)
 - [BitVM and MATT](https://twitter.com/salvatoshi/status/1712772143753408824)
