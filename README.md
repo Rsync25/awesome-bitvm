@@ -74,7 +74,8 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 
 ## Libraries
 
-- [Bitcoin compiler](https://github.com/maitrebitcoin/bitcoin-bitvm-compiler)
+- [Bitcoin compiler in C++](https://github.com/maitrebitcoin/bitcoin-bitvm-compiler)
+- [BitVM in Rust](
   
 ## Apps
 
