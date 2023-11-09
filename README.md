@@ -67,6 +67,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [Lightning Network explainer](https://lightningnetwork.plus/posts/450)
 - [Base58 explainer](https://twitter.com/base58btc/status/1711728898730242112)
 - [BitVM Slides by Cartesi](https://web3.link/BitVmAndZK_ZkWarsaw.pdf)
+- [Deep dive into BitVM -Computing paradigm to express Turing-complete Bitcoin contracts](https://medium.com/crypto-garage/deep-dive-into-bitvm-computing-paradigm-to-express-turing-complete-bitcoin-contracts-1c6cb05edfca)
 
 ## Videos
 
