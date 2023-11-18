@@ -84,3 +84,10 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 ## Apps
 
 - [BitDC (Bitcoin Death Certificate) Protocol](https://github.com/araujo88/bitdc)
+
+
+## Contributors
+
+<a align="center" href="https://github.com/Rsyn25/awesome-bitvm/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rsync25/awesome-bitvm" />
+</a>
