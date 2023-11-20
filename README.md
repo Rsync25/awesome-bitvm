@@ -83,8 +83,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
   
 ## Apps
 
-- [BitDC (Bitcoin Death Certificate) Protocol](https://github.com/araujo88/bitdc)
-
+TBD
 
 ## Contributors
 
