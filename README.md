@@ -19,12 +19,13 @@ Committing to a large program in a Taproot address requires significant amounts 
 - Prediction Markets
 - Privacy
 - Multisig
+- 2WP for sidechains
 
 
 ## Resources
 
 - [BitVM Whitepaper](https://bitvm.org/bitvm.pdf)
-- [BitVM Online](https://supertestnet.github.io/tapleaf-circuits/)
+- [BitVM Online](https://techmix.github.io/tapleaf-circuits/)
 - [bitcoin-dev BitVM: Compute Anything on Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/021997.html)
 - [BitVM Primer](https://github.com/twhit223/bitvm_primer)
 - [BitVM Toy Implementation](https://github.com/BitVM/BitVM)
