@@ -81,6 +81,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 
 - [Bitcoin compiler in C++](https://github.com/maitrebitcoin/bitcoin-bitvm-compiler)
 - [BitVM in Rust](https://github.com/BitVM/rust-bitcoin-scriptexec)
+- [LogicGates: Logical gates in Python for different scenarios on BitVM (Phython)](https://github.com/mcbagz/LogicGates)
   
 ## Apps
 
