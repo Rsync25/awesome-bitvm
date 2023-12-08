@@ -77,16 +77,21 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 
 - [What is BitVM?](https://www.youtube.com/watch?v=XxqQU6j6jI8)
 - [BitVM Intro: Create Logic Gates and Circuits in Python](https://www.youtube.com/watch?v=cnijtOVRwgg)
+- [BitVM 8 bit CPU: Write Bitcoin programs in Assembly](https://www.youtube.com/watch?v=lQ9agL725G0)
 
 ## Libraries
 
 - [Bitcoin compiler in C++](https://github.com/maitrebitcoin/bitcoin-bitvm-compiler)
 - [BitVM in Rust](https://github.com/BitVM/rust-bitcoin-scriptexec)
 - [LogicGates: Logical gates in Python for different scenarios on BitVM (Phython)](https://github.com/mcbagz/LogicGates)
+- [SHA256 WASM](https://github.com/BitVM/sha256)
+- [BLAKE3 WASM](https://github.com/BitVM/blake3)
+- [RIPEMD160 WASM](https://github.com/BitVM/ripemd160)
   
 ## Apps
 
 - [BitLDC (Bitcoin Life/Death Certificate) Protocol](https://github.com/araujo88/BitLDC)
+- [ASM to Bin](https://magical-frangipane-149aba.netlify.app/compiler)
 
 ## Contributors
 
