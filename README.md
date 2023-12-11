@@ -78,6 +78,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [What is BitVM?](https://www.youtube.com/watch?v=XxqQU6j6jI8)
 - [BitVM Intro: Create Logic Gates and Circuits in Python](https://www.youtube.com/watch?v=cnijtOVRwgg)
 - [BitVM 8 bit CPU: Write Bitcoin programs in Assembly](https://www.youtube.com/watch?v=lQ9agL725G0)
+- [Demo of Robin Linus's implementation of bitvm](https://youtu.be/7sRqzoZorn0)
 
 ## Libraries
 
