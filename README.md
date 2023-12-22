@@ -73,6 +73,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [BitVM Slides by Cartesi](https://web3.link/BitVmAndZK_ZkWarsaw.pdf)
 - [Deep dive into BitVM -Computing paradigm to express Turing-complete Bitcoin contracts](https://medium.com/crypto-garage/deep-dive-into-bitvm-computing-paradigm-to-express-turing-complete-bitcoin-contracts-1c6cb05edfca)
 - [Bitcoin BitVM: What is it?, exactly?](https://www.kraken.com/learn/what-is-bitcoin-bitvm)
+- [What is BitVM? And why does it matter to rollups?](https://www.bitcoinrollups.io/bitvm)
 
 ## Videos
 
