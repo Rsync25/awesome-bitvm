@@ -93,6 +93,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [SHA256 WASM](https://github.com/BitVM/sha256)
 - [BLAKE3 WASM](https://github.com/BitVM/blake3)
 - [RIPEMD160 WASM](https://github.com/BitVM/ripemd160)
+- [Elftrace](https://github.com/halseth/elftrace)
   
 ## Apps
 
