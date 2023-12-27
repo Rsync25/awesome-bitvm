@@ -42,6 +42,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [BitVM and sCrypt](https://gist.github.com/msinkec/5827d5285a18de8930324f67b880841e)
 - [STARK proof for BitVM circuit execution](https://github.com/neocarmack/STARK/)
 - [BitVM in Spanish](https://docs.google.com/presentation/d/1vwWUP6PyDgZ4xh72fUouf5iBEZGuFLIF9-O5z5GUshs/edit?usp=drivesdk)
+- [BitVM Transaction Graph](https://x.com/robin_linus/status/1740012153816715507?s=20)
 
 ## Tech Overview
 
