@@ -1,4 +1,4 @@
-# Awesome BitVM 💻 🪙
+# Awesome BitVM 💻 🪙 ⚡
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
