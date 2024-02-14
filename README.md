@@ -111,7 +111,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [BitLDC (Bitcoin Life/Death Certificate) Protocol](https://github.com/araujo88/BitLDC)
 - [ASM to Bin](https://magical-frangipane-149aba.netlify.app/compiler)
 - [Citrea](https://www.blog.citrea.xyz/)
-- [](https://lightco.in/2024/02/13/bitstake/)
+- [Bitstake: A proof of stake bridge based on BitVM](https://lightco.in/2024/02/13/bitstake/)
 
 ## Contributors
 
