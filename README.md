@@ -91,6 +91,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [ How bitvm works: from logic gates to an 8bit cpu for bitcoin](https://www.youtube.com/watch?v=IRU83gRcw3Y)
 - [S15 E13: Robin Linus on BitVM & Permissionless Bitcoin Development](https://www.youtube.com/watch?v=Defp4sX7eEc)
 - [Robin Linus on BitVM](https://brink.dev/blog/2024/01/16/eng-call-bitvm/)
+- [BitVM: A Tool for Smarter Smart Contracts]
 
 ## Libraries
 
