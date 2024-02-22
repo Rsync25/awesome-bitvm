@@ -81,6 +81,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [2024 Crypto Market Outlook by Coinsbase Institutional](https://coinbase.bynder.com/m/c8c6fdc663f44b5/original/2024-Crypto-Market-Outlook-V3.pdf)
 - [Introduce sCrypt: a Layer-1 Smart Contract Framework for BTC](https://xiaohuiliu.medium.com/introduce-scrypt-a-layer-1-smart-contract-framework-for-btc-b8b39c125c1a)
 - [Exploring the Landing Paths for Bitcoin Layer 2 Ecosystem](https://wublock.substack.com/p/exploring-the-landing-paths-for-bitcoin)
+- [Bits, Booleans, Battlestar Galactica](https://docs.google.com/presentation/d/1vwWUP6PyDgZ4xh72fUouf5iBEZGuFLIF9-O5z5GUshs/edit#slide=id.p)
 
 ## Videos
 
