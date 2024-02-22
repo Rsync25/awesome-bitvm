@@ -19,7 +19,8 @@ Committing to a large program in a Taproot address requires significant amounts 
 - Prediction Markets
 - Privacy
 - Multisig
-- 2WP for sidechains
+- 2WP for sidechains (Pegin and Pegout)
+- Bridges
 
 
 ## Resources
