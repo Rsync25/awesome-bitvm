@@ -21,6 +21,8 @@ Committing to a large program in a Taproot address requires significant amounts 
 - Multisig
 - 2WP for sidechains (Pegin and Pegout)
 - Bridges
+- Compatible with BIP-300/301
+  
 
 
 ## Resources
