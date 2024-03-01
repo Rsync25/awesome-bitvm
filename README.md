@@ -84,6 +84,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [Introduce sCrypt: a Layer-1 Smart Contract Framework for BTC](https://xiaohuiliu.medium.com/introduce-scrypt-a-layer-1-smart-contract-framework-for-btc-b8b39c125c1a)
 - [Exploring the Landing Paths for Bitcoin Layer 2 Ecosystem](https://wublock.substack.com/p/exploring-the-landing-paths-for-bitcoin)
 - [Bits, Booleans, Battlestar Galactica](https://docs.google.com/presentation/d/1vwWUP6PyDgZ4xh72fUouf5iBEZGuFLIF9-O5z5GUshs/edit#slide=id.p)
+- [Experiment of BitVM White Paper](https://bitlayerlabs.notion.site/Experiment-of-BitVM-White-Paper-ef87e719001e4e2d83765c68f1bb8443)
 
 ## Videos
 
@@ -118,6 +119,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [ASM to Bin](https://magical-frangipane-149aba.netlify.app/compiler)
 - [Citrea](https://www.blog.citrea.xyz/)
 - [Bitstake: A proof of stake bridge based on BitVM](https://lightco.in/2024/02/13/bitstake/)
+- [BitVM Research](https://github.com/bitlayer-org/BitVM-Research)
 
 ## Contributors
 
