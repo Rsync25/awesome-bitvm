@@ -113,6 +113,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [rv32i to BitVM](https://github.com/zippiehq/rv32i-to-bitvm)
 - [Toy BitVM RS](https://github.com/chainwayxyz/toy-bitvm-rs)
 - [Tapleaf Circuits](https://github.com/supertestnet/tapleaf-circuits)
+- [BitVM Workshop](https://github.com/supertestnet/bitvm-workshop)
   
 ## Apps
 
