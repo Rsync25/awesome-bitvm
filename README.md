@@ -114,6 +114,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [Toy BitVM RS](https://github.com/chainwayxyz/toy-bitvm-rs)
 - [Tapleaf Circuits](https://github.com/supertestnet/tapleaf-circuits)
 - [BitVM Workshop](https://github.com/supertestnet/bitvm-workshop)
+- [ BitVM Groth16 Verifier Toolkit - WIP](https://github.com/chainwayxyz/bitvm-zk-verifier)
   
 ## Apps
 
