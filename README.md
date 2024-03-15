@@ -48,6 +48,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [BitVM Transaction Graph](https://x.com/robin_linus/status/1740012153816715507?s=20)
 - [Ultimate BitVM Guide](https://x.com/xverseApp/status/1745426619135901871?s=20)
 - [Unnamed Noncustodial Inchoate Sidechains On Bitvm (Unisob)](https://gist.github.com/supertestnet/5f262c632cbcd00348824aad5c289705)
+- [BitVM website](https://bitvm.org/)
 
 ## Tech Overview
 
@@ -103,8 +104,8 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 ## Libraries
 
 - [Bitcoin compiler in C++](https://github.com/maitrebitcoin/bitcoin-bitvm-compiler)
-- [BitVM Toy Implementation](https://github.com/BitVM/BitVM)
-- [BitVM in Rust](https://github.com/BitVM/rust-bitcoin-scriptexec)
+- [BitVM Toy Implementation](https://github.com/BitVM/bitvm-js)
+- [BitVM in Rust](https://github.com/BitVM/BitVM)
 - [LogicGates: Logical gates in Python for different scenarios on BitVM (Phython)](https://github.com/mcbagz/LogicGates)
 - [SHA256 WASM](https://github.com/BitVM/sha256)
 - [BLAKE3 WASM](https://github.com/BitVM/blake3)
@@ -114,7 +115,9 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [Toy BitVM RS](https://github.com/chainwayxyz/toy-bitvm-rs)
 - [Tapleaf Circuits](https://github.com/supertestnet/tapleaf-circuits)
 - [BitVM Workshop](https://github.com/supertestnet/bitvm-workshop)
-- [ BitVM Groth16 Verifier Toolkit - WIP](https://github.com/chainwayxyz/bitvm-zk-verifier)
+- [BitVM Groth16 Verifier Toolkit - WIP](https://github.com/chainwayxyz/bitvm-zk-verifier)
+- [Plonky2 Experiments](https://github.com/BitVM/zkCoins)
+- [Bitcoin Script interpreter implemented in Rust](https://github.com/BitVM/rust-bitcoin-scriptexec)
   
 ## Apps
 
@@ -123,6 +126,10 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [Citrea](https://www.blog.citrea.xyz/)
 - [Bitstake: A proof of stake bridge based on BitVM](https://lightco.in/2024/02/13/bitstake/)
 - [BitVM Research](https://github.com/bitlayer-org/BitVM-Research)
+
+## Extra lists
+
+- [BitVM website](https://bitvm.org/)
 
 ## Contributors
 
