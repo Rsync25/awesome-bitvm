@@ -118,6 +118,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [BitVM Groth16 Verifier Toolkit - WIP](https://github.com/chainwayxyz/bitvm-zk-verifier)
 - [Plonky2 Experiments](https://github.com/BitVM/zkCoins)
 - [Bitcoin Script interpreter implemented in Rust](https://github.com/BitVM/rust-bitcoin-scriptexec)
+- [rust-bitcoin-m31-or-babybear](https://github.com/BitVM/rust-bitcoin-m31-or-babybear)
   
 ## Apps
 
