@@ -120,6 +120,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [Plonky2 Experiments](https://github.com/BitVM/zkCoins)
 - [Bitcoin Script interpreter implemented in Rust](https://github.com/BitVM/rust-bitcoin-scriptexec)
 - [rust-bitcoin-m31-or-babybear](https://github.com/BitVM/rust-bitcoin-m31-or-babybear)
+- [BitVM in Phython](https://pypi.org/project/bitvm/)
   
 ## Apps
 
