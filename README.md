@@ -48,8 +48,8 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [Unnamed Noncustodial Inchoate Sidechains On Bitvm (Unisob)](https://gist.github.com/supertestnet/5f262c632cbcd00348824aad5c289705)
 - [BitVM website](https://bitvm.org/)
 - [BitVM Research](https://github.com/bitlayer-org/BitVM-Research)
-- [BitVM 2: Permissionless Verification on Bitcoin](https://gist.github.com/RobinLinus/2251939ba074bd8af80a3826b1983246)
-
+- [BitVM 2: Permissionless Verification](https://bitvm.org/bitvm2)
+  
 ## Tech Overview
 
 BitVM operates on a simple yet powerful architecture involving two principal actors: the Prover and the Verifier. The Prover is the party that initiates a computation or claim, essentially saying, “Here’s a program, and here’s what I assert it will do or produce.” The Verifier, on the other hand, is responsible for validating that claim. This dual-role system enables a level of checks and balances, ensuring that the computational results are both accurate and trustworthy.
