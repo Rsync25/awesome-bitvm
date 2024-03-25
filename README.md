@@ -48,6 +48,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [Unnamed Noncustodial Inchoate Sidechains On Bitvm (Unisob)](https://gist.github.com/supertestnet/5f262c632cbcd00348824aad5c289705)
 - [BitVM website](https://bitvm.org/)
 - [BitVM Research](https://github.com/bitlayer-org/BitVM-Research)
+- [BitVM 2: Permissionless Verification on Bitcoin](https://gist.github.com/RobinLinus/2251939ba074bd8af80a3826b1983246)
 
 ## Tech Overview
 
