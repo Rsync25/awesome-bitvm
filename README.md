@@ -49,6 +49,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [BitVM website](https://bitvm.org/)
 - [BitVM Research](https://github.com/bitlayer-org/BitVM-Research)
 - [BitVM 2: Permissionless Verification](https://bitvm.org/bitvm2)
+- [BitVM bridge comparison table](https://gist.github.com/john-light/e0cf9ae8a3a68d0d8e80edb25585b64b)
   
 ## Tech Overview
 
