@@ -124,6 +124,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [Bitcoin Script interpreter implemented in Rust](https://github.com/BitVM/rust-bitcoin-scriptexec)
 - [rust-bitcoin-m31-or-babybear](https://github.com/BitVM/rust-bitcoin-m31-or-babybear)
 - [BitVM in Phython](https://github.com/krutt/bitvm)
+- [BitVM Circom Example in Java](https://github.com/BitVM/bitvm-circom-example)
 
 # Apps
 
