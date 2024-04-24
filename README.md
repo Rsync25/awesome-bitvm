@@ -26,7 +26,7 @@ In the last update, BitVM now support SHA256 script.
 - Privacy
 - Multisig
 - 2WP for sidechains (Pegin and Pegout)
-- Bridges
+- Bridges (on-chain <> sidechain)
 - Compatible with BIP-300/301
 
 ## Resources
