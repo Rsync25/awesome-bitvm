@@ -17,7 +17,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 
 Currenctly BitVM is under development allows developers create bridges for now and some apps.
 
-In the last update, BitVM now support SHA256 script.
+In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/BitVM/pull/65)
 
 ### Potential Use Case
 
