@@ -138,6 +138,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [ASM to Bin](https://magical-frangipane-149aba.netlify.app/compiler)
 - [Bitstake: A proof of stake bridge based on BitVM](https://lightco.in/2024/02/13/bitstake/)
 - [Citrea's BitVM Based Trust-Minimized Two-Way Peg Program](https://github.com/chainwayxyz/clementine)
+- [BitVMX](https://bitvmx.org/)
 
 ## Extra lists
 
