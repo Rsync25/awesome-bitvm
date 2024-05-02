@@ -5,7 +5,7 @@
 
 ![image](https://github.com/22388o/awesome-bitvm/assets/83122757/9015d3ec-fea9-497c-9c68-c0bd98221b86)
 
-A curated list of resources around  BitVM
+> A curated list of resources around  BitVM
 
 ## About
 
@@ -139,6 +139,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [Bitstake: A proof of stake bridge based on BitVM](https://lightco.in/2024/02/13/bitstake/)
 - [Citrea's BitVM Based Trust-Minimized Two-Way Peg Program](https://github.com/chainwayxyz/clementine)
 - [BitVMX](https://bitvmx.org/)
+- [Alpen Labs](https://www.alpenlabs.io/blog/snarknado-practical-round-efficient-snark-verifier-on-bitcoin)
 
 ## Extra lists
 
