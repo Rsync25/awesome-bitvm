@@ -96,6 +96,7 @@ Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails wel
 - [The Spectre of MEV on Bitcoin](https://cyber.fund/content/the-spectre-of-mev-on-bitcoin)
 - [BitVM 2: Opening Up The Playing Field](https://bitcoinmagazine.com/technical/bitvm-2-opening-up-the-playing-field)
 - [What is BitVM? Exploring Bitcoin's latest scalability solution](https://www.okx.com/learn/what-is-bitvm-exploring-bitcoins-latest-scalability-solution)
+- [What is Bitcoin BitVM?](https://www.coinbase.com/en-br/learn/crypto-glossary/what-is-bitcoin-bitvm)
 
 ## Videos
 
