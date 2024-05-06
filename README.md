@@ -73,6 +73,13 @@ In BitVM, Optimistic Rollups can be particularly beneficial. Recall that BitVM p
 
 Moreover, in the event of a dispute, BitVM’s use of fraud proofs dovetails well with the “challenge-response” system inherent in Optimistic Rollups. If the Prover makes a false claim, the Verifier can quickly expose the dishonesty by providing a succinct fraud proof. This fraud proof would then be scrutinised within the Optimistic Rollup framework, and if validated, the dishonest party would be penalised.
 
+## BitVM Generations
+
+Since BitVM gate, many developers joined into development of protocol. Follow below last generations:
+
+![image](https://github.com/Rsync25/awesome-bitvm/assets/135646455/fbb09e3f-e6a0-4044-bda3-9c3cf0764a68)
+
+
 ## Articles
 
 - [The Big Deal with BitVM: Arbitrary Computation Now Possible on Bitcoin Without a Fork](https://bitcoinmagazine.com/technical/the-big-deal-with-bitvm-arbitrary-computation-now-possible-on-bitcoin-without-a-fork)
