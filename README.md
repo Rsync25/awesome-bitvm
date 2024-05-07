@@ -148,6 +148,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Citrea's BitVM Based Trust-Minimized Two-Way Peg Program](https://github.com/chainwayxyz/clementine)
 - [BitVMX](https://bitvmx.org/)
 - [Alpen Labs](https://www.alpenlabs.io/blog/snarknado-practical-round-efficient-snark-verifier-on-bitcoin)
+- [KNC](https://github.com/BTCapsule/knc)
 
 ## Extra lists
 
