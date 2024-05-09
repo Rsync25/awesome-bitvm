@@ -154,6 +154,10 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 
 - [BitVM website](https://bitvm.org/)
 
+## Donations
+
+[Rsync](https://tourniquet.app/donate/Rsync)
+
 ## Contributors
 
 <a align="center" href="https://github.com/Rsyn25/awesome-bitvm/graphs/contributors">
