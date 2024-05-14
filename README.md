@@ -104,6 +104,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVM 2: Opening Up The Playing Field](https://bitcoinmagazine.com/technical/bitvm-2-opening-up-the-playing-field)
 - [What is BitVM? Exploring Bitcoin's latest scalability solution](https://www.okx.com/learn/what-is-bitvm-exploring-bitcoins-latest-scalability-solution)
 - [What is Bitcoin BitVM?](https://www.coinbase.com/en-br/learn/crypto-glossary/what-is-bitcoin-bitvm)
+- [BitVM Explained: In-Depth Guide to Smart Contracts on Bitcoin](https://blog.rootstock.io/noticia/bitvm-explained-guide-to-smart-contracts-on-bitcoin/)
 
 ## Videos
 
