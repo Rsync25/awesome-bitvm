@@ -141,6 +141,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVM in Phython](https://github.com/krutt/bitvm)
 - [BitVM Circom Example in Java](https://github.com/BitVM/bitvm-circom-example)
 - [BitVM Macros](https://github.com/BitVM/BitVM_macros)
+- [ZkCoins](https://github.com/BitVM/zkCoins)
 
 # Apps
 
