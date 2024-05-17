@@ -140,6 +140,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [rust-bitcoin-m31-or-babybear](https://github.com/BitVM/rust-bitcoin-m31-or-babybear)
 - [BitVM in Phython](https://github.com/krutt/bitvm)
 - [BitVM Circom Example in Java](https://github.com/BitVM/bitvm-circom-example)
+- [BitVM Macros](https://github.com/BitVM/BitVM_macros)
 
 # Apps
 
