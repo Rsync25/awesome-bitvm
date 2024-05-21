@@ -152,6 +152,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVMX](https://bitvmx.org/)
 - [Alpen Labs](https://www.alpenlabs.io/blog/snarknado-practical-round-efficient-snark-verifier-on-bitcoin)
 - [KNC](https://github.com/BTCapsule/knc)
+- Bitlayer
 
 ## Extra lists
 
