@@ -19,6 +19,8 @@ Currenctly BitVM is under development allows developers create bridges for now a
 
 In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/BitVM/pull/65)
 
+[The BitVM project does not endorse any company](https://x.com/robin_linus/status/1794698802731077764)
+
 ### Potential Use Case
 
 - Complex smart contracts
