@@ -19,7 +19,6 @@ Currenctly BitVM is under development allows developers create bridges for now a
 
 In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/BitVM/pull/65)
 
-[The BitVM project does not endorse any company](https://x.com/robin_linus/status/1794698802731077764)
 
 ### Potential Use Case
 
@@ -146,6 +145,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVM Circom Example in Java](https://github.com/BitVM/bitvm-circom-example)
 - [BitVM Macros](https://github.com/BitVM/BitVM_macros)
 - [ZkCoins](https://github.com/BitVM/zkCoins)
+- [Bitvm Groth16 Verifier](https://github.com/zulu-network/bitvm-groth16-verifier)
 
 # Apps
 
@@ -156,11 +156,22 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVMX](https://bitvmx.org/)
 - [Alpen Labs](https://www.alpenlabs.io/blog/snarknado-practical-round-efficient-snark-verifier-on-bitcoin)
 - [KNC](https://github.com/BTCapsule/knc)
-- Bitlayer
+- [Bitlayer](https://zulunetwork.io/)
+- [Zulu Network](https://www.bitlayer.org/)
+
+## BitVM project VS Companies use "BitVM"
+
+[The BitVM project does not endorse any company](https://x.com/robin_linus/status/1794698802731077764)
 
 ## Extra lists
 
 - [BitVM website](https://bitvm.org/)
+
+## Disclaimer
+
+Authors of this list is not responsible for eventual issues with third party projects be trading, speculation or any other thing.
+
+Please do your own research
 
 ## Donations
 
