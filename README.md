@@ -7,6 +7,8 @@
 
 > A curated list of resources around  BitVM
 
+**Contributions are welcome**
+
 ## About
 
 BitVM is a computing paradigm to express Turing-complete Bitcoin contracts. This requires no changes to the network’s consensus rules.
