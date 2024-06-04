@@ -109,6 +109,8 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [What is Bitcoin BitVM?](https://www.coinbase.com/en-br/learn/crypto-glossary/what-is-bitcoin-bitvm)
 - [BitVM Explained: In-Depth Guide to Smart Contracts on Bitcoin](https://blog.rootstock.io/noticia/bitvm-explained-guide-to-smart-contracts-on-bitcoin/)
 - [The Future of Bitcoin #3: Scaling Bitcoin](https://www.binance.com/en/research/analysis/the-future-of-bitcoin-3-scaling-bitcoin)
+- [Using Logic Gates to Build Smart Contracts with Taproot Wallets: Case of BitVM](https://medium.com/coinmonks/using-logic-gates-to-build-smart-contracts-with-taproot-wallets-case-of-bitvm-db0f1f2b5bb5)
+- [BitVM Bridge and OP-DLC (Part1) : Next Generation of Bitcoin Layer2 Bridges](https://medium.com/@btceden/bitvm-bridge-and-op-dlc-part1-next-generation-of-bitcoin-layer2-bridges-15748efab9d1)
 
 ## Videos
 
@@ -158,8 +160,8 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVMX](https://bitvmx.org/)
 - [Alpen Labs](https://www.alpenlabs.io/blog/snarknado-practical-round-efficient-snark-verifier-on-bitcoin)
 - [KNC](https://github.com/BTCapsule/knc)
-- [Bitlayer](https://zulunetwork.io/)
-- [Zulu Network](https://www.bitlayer.org/)
+- [Bitlayer](https://www.bitlayer.org/)
+- [Zulu Network](https://zulunetwork.io/)
 
 ## BitVM project VS Companies use "BitVM"
 
