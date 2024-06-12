@@ -112,6 +112,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [The Future of Bitcoin #3: Scaling Bitcoin](https://www.binance.com/en/research/analysis/the-future-of-bitcoin-3-scaling-bitcoin)
 - [Using Logic Gates to Build Smart Contracts with Taproot Wallets: Case of BitVM](https://medium.com/coinmonks/using-logic-gates-to-build-smart-contracts-with-taproot-wallets-case-of-bitvm-db0f1f2b5bb5)
 - [BitVM Bridge and OP-DLC (Part1) : Next Generation of Bitcoin Layer2 Bridges](https://medium.com/@btceden/bitvm-bridge-and-op-dlc-part1-next-generation-of-bitcoin-layer2-bridges-15748efab9d1)
+- [Latest Innovations in BitVMX](https://bitvmx.org/post-1-0d6009hx638d305a)
 
 ## Videos
 
