@@ -128,6 +128,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Bitvm Crash Course](https://www.youtube.com/watch?v=_Met2lUO0P0)
 - [Workshops Casa21 - BitVM: Bitcoin Smart Contracts With Rich State](https://www.youtube.com/watch?v=LwH9fhY4uGA)
 - [BitVM: Smarter Bitcoin Contracts - Robin Linus (zerosync)](https://www.youtube.com/live/VIg7BjX_lJw?si=JeyhKppb2lmH2kRN)
+- [BitVM: The Holy Grail for Bitcoin? | Creator Robin Linus](https://www.bankless.com/bitvm-robin-linus)
 
 ## Libraries
 
