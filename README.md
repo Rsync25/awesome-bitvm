@@ -114,6 +114,9 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVM Bridge and OP-DLC (Part1) : Next Generation of Bitcoin Layer2 Bridges](https://medium.com/@btceden/bitvm-bridge-and-op-dlc-part1-next-generation-of-bitcoin-layer2-bridges-15748efab9d1)
 - [Latest Innovations in BitVMX](https://bitvmx.org/post-1-0d6009hx638d305a)
 - [Is BitVM Better or Worse than then Lightning Network?](https://www.publish0x.com/cryptoeq/is-bitvm-better-or-worse-than-then-lightning-network-xmjwlvl)
+- [BitVM: A Computational Revolution in Bitcoin](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/)
+- [Bitvm To Become The First Layer-2 On Bitcoin?](https://medium.com/@thecoinrepublic01/bitvm-to-become-the-first-layer-2-on-bitcoin-1613b529278d)
+- [BitVM explained in 4 slides](https://x.com/BTCillustrated/status/1712440417524810227)
 
 ## Videos
 
