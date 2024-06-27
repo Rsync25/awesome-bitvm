@@ -117,6 +117,8 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVM: A Computational Revolution in Bitcoin](https://www.eddieoz.com/bitvm-a-computational-revolution-in-bitcoin/)
 - [Bitvm To Become The First Layer-2 On Bitcoin?](https://medium.com/@thecoinrepublic01/bitvm-to-become-the-first-layer-2-on-bitcoin-1613b529278d)
 - [BitVM explained in 4 slides](https://x.com/BTCillustrated/status/1712440417524810227)
+- [Optimizing Algorithms for Bitcoin Script](https://bitvmx.org/knowledge/optimizing-algorithms-for-bitcoin-script)
+
 
 ## Videos
 
