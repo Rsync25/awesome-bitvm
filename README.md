@@ -138,7 +138,8 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [S15 E43: Sergio Demian Lerner on BitVMX & Layer 2s](https://www.youtube.com/watch?v=LWy0VI2Eemw)
 - [Episode 328 - ZK on Bitcoin with Alpen Labs](https://www.youtube.com/watch?v=E0rBr9ED50s)
 - [Why BitVM & BItcoin L2s are Inevitable](https://www.youtube.com/watch?v=8i7dw55H_9Q)
-- [ Bitvm By Liam Eagen](https://www.youtube.com/watch?v=QKBObsLzBE8)
+- [Bitvm By Liam Eagen](https://www.youtube.com/watch?v=QKBObsLzBE8)
+- [ Unlocking Bitcoin's Potential: How Rootstock Uses EVM For Scalability](https://www.youtube.com/watch?v=wQ8JmmtjkT8)
   
 ## Libraries
 
