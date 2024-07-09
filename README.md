@@ -141,6 +141,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Bitvm By Liam Eagen](https://www.youtube.com/watch?v=QKBObsLzBE8)
 - [Unlocking Bitcoin's Potential: How Rootstock Uses EVM For Scalability](https://www.youtube.com/watch?v=wQ8JmmtjkT8)
 - [Chat_86 - Everything on Bitcoin with Robin Linus & Super Testnet](https://rumble.com/v55b2lo-chat-86-everything-on-bitcoin-with-robin-linus-and-super-testnet.html?e9s=src_v1_finance)
+- [What Is BitVM And Does It Allow Rollups On Bitcoin?](https://www.youtube.com/watch?v=C4tQjgAL5hI)
   
 ## Libraries
 
