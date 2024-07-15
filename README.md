@@ -118,7 +118,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Bitvm To Become The First Layer-2 On Bitcoin?](https://medium.com/@thecoinrepublic01/bitvm-to-become-the-first-layer-2-on-bitcoin-1613b529278d)
 - [BitVM explained in 4 slides](https://x.com/BTCillustrated/status/1712440417524810227)
 - [Optimizing Algorithms for Bitcoin Script](https://bitvmx.org/knowledge/optimizing-algorithms-for-bitcoin-script)
-
+- [BitVM becomes pratical](https://blog.bitlayer.org/BitVM_Bridge_Becomes_Practical/)
 
 ## Videos
 
