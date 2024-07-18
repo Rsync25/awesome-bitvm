@@ -143,6 +143,9 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Chat_86 - Everything on Bitcoin with Robin Linus & Super Testnet](https://rumble.com/v55b2lo-chat-86-everything-on-bitcoin-with-robin-linus-and-super-testnet.html?e9s=src_v1_finance)
 - [What Is BitVM And Does It Allow Rollups On Bitcoin?](https://www.youtube.com/watch?v=C4tQjgAL5hI)
 - [BitVM - Bitcoin Asia 2024](https://youtu.be/LEvWi6IjGsU)
+- [MIT Bitcoin Expo 2024: Scaling Up - BitVM (Robin Linus)](https://www.youtube.com/watch?v=nhR_g9hPnqM)
+- [MIT Bitcoin Expo 2024: Scaling Up-Covenant Panel w Roose (Ark), Linus (BitVM) & Sabouri (Botanix)](https://www.youtube.com/watch?v=TKrXjGTIbx8)
+
 ## Libraries
 
 - [Bitcoin compiler in C++](https://github.com/maitrebitcoin/bitcoin-bitvm-compiler)
