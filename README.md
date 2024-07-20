@@ -21,6 +21,8 @@ Currenctly BitVM is under development allows developers create bridges for now a
 
 In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/BitVM/pull/65)
 
+[A PR from PayneJoe and Antalpha Labs reducing the size of the Groth16 verifier from ~4GB down to 2.9GB.](https://github.com/BitVM/BitVM/pull/83)
+
 
 ### Potential Use Case
 
