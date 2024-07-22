@@ -172,6 +172,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [ZkCoins](https://github.com/BitVM/zkCoins)
 - [Bitvm Groth16 Verifier](https://github.com/zulu-network/bitvm-groth16-verifier)
 - [BitVMX CPU](https://github.com/FairgateLabs/BitVMX-CPU)
+- [Rust Bitcoin Script Stack](https://github.com/FairgateLabs/rust-bitcoin-script-stack)
 
 # Apps
 
