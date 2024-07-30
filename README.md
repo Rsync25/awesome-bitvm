@@ -149,6 +149,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [MIT Bitcoin Expo 2024: Scaling Up - BitVM (Robin Linus)](https://www.youtube.com/watch?v=nhR_g9hPnqM)
 - [MIT Bitcoin Expo 2024: Scaling Up-Covenant Panel w Roose (Ark), Linus (BitVM) & Sabouri (Botanix)](https://www.youtube.com/watch?v=TKrXjGTIbx8)
 - [Interactive SNARK Verification on Bitcoin using BitVMX](https://www.youtube.com/watch?v=ysXlM_0yAFs)
+- [Second layers and other projects on top of bitcoin](https://braiins.com/blog/second-layers-and-other-projects-on-top-of-bitcoin)
 
 ## Libraries
 
