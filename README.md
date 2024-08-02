@@ -122,6 +122,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Optimizing Algorithms for Bitcoin Script](https://bitvmx.org/knowledge/optimizing-algorithms-for-bitcoin-script)
 - [BitVM becomes pratical](https://blog.bitlayer.org/BitVM_Bridge_Becomes_Practical/)
 - [Interactive SNARK Verification on Bitcoin using BitVMX](https://bitvmx.org/knowledge/interactive-snark-verification-on-bitcoin-using-bitvmx)
+- [Introduction to BitVM](https://medium.com/coinmonks/introduction-to-bitvm-d483916d39c4)
 
 ## Videos
 
