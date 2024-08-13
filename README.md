@@ -34,6 +34,7 @@ In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/B
 - Bridges (on-chain <> sidechain)
 - Compatible with BIP-300/301
 - Low cost
+- Compatible with Groth16 and ZK
 
 ## Resources
 
