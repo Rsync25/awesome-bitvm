@@ -64,6 +64,7 @@ In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/B
 - [BitVM 2: Permissionless Verification](https://bitvm.org/bitvm2)
 - [BitVM bridge comparison table](https://gist.github.com/john-light/e0cf9ae8a3a68d0d8e80edb25585b64b)
 - [Tree++](https://bitvm.org/treeplusplus.html)
+- [BitVM2: Bridging Bitcoin to Second Layers](https://bitvm.org/bitvm_bridge.pdf)
   
 ## Tech Overview
 
