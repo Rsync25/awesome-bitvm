@@ -127,6 +127,8 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Interactive SNARK Verification on Bitcoin using BitVMX](https://bitvmx.org/knowledge/interactive-snark-verification-on-bitcoin-using-bitvmx)
 - [Introduction to BitVM](https://medium.com/coinmonks/introduction-to-bitvm-d483916d39c4)
 - [What You Should Know About BitVM](https://blockspace.media/podcast/what-you-should-know-about-bitvm/)
+- [Bitcoin sidechain creators tout new ‘permissionless’ version BitVM2](https://cointelegraph.com/news/bitcoin-sidechain-creators-tout-new-permissionless-version-bitvm2)
+- [BitVM Version 2 Introduces New Era for Bitcoin L2 Scaling Solutions](https://news.bitcoin.com/bitvm-version-2-introduces-new-era-for-bitcoin-l2-scaling-solutions/)
 
 ## Videos
 
