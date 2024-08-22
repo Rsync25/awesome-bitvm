@@ -130,6 +130,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Bitcoin sidechain creators tout new ‘permissionless’ version BitVM2](https://cointelegraph.com/news/bitcoin-sidechain-creators-tout-new-permissionless-version-bitvm2)
 - [BitVM Version 2 Introduces New Era for Bitcoin L2 Scaling Solutions](https://news.bitcoin.com/bitvm-version-2-introduces-new-era-for-bitcoin-l2-scaling-solutions/)
 - [BitVM2: A New Era May Be Dawning for the Bitcoin Ecosystem](https://inbitcoinwetrust.substack.com/p/bitvm2-a-new-era-may-be-dawning-for)
+  
 ## Videos
 
 - [What is BitVM?](https://www.youtube.com/watch?v=XxqQU6j6jI8)
@@ -157,6 +158,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [MIT Bitcoin Expo 2024: Scaling Up-Covenant Panel w Roose (Ark), Linus (BitVM) & Sabouri (Botanix)](https://www.youtube.com/watch?v=TKrXjGTIbx8)
 - [Interactive SNARK Verification on Bitcoin using BitVMX](https://www.youtube.com/watch?v=ysXlM_0yAFs)
 - [Second layers and other projects on top of bitcoin](https://braiins.com/blog/second-layers-and-other-projects-on-top-of-bitcoin)
+- [BitVM2 Explained with Alexei Zamyatin](https://www.youtube.com/watch?v=aOlPZ0o1UEY)
 
 ## Libraries
 
