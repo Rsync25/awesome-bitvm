@@ -130,6 +130,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Bitcoin sidechain creators tout new ‘permissionless’ version BitVM2](https://cointelegraph.com/news/bitcoin-sidechain-creators-tout-new-permissionless-version-bitvm2)
 - [BitVM Version 2 Introduces New Era for Bitcoin L2 Scaling Solutions](https://news.bitcoin.com/bitvm-version-2-introduces-new-era-for-bitcoin-l2-scaling-solutions/)
 - [BitVM2: A New Era May Be Dawning for the Bitcoin Ecosystem](https://inbitcoinwetrust.substack.com/p/bitvm2-a-new-era-may-be-dawning-for)
+- [Alphen Labs made in verifying field multiplications in Script, which reduce the SNARK verifier script used in BitVM by over 1.2 GB.](https://x.com/AlpenLabs/status/1827004881754034680)
   
 ## Videos
 
