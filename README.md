@@ -134,6 +134,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Alphen Labs made in verifying field multiplications in Script, which reduce the SNARK verifier script used in BitVM by over 1.2 GB.](https://x.com/AlpenLabs/status/1827004881754034680)
 - [The Security Tradeoffs of Validating Bridges](https://fairgate.io/post/1-the-security-tradeoffs-of-validating-bridges)
 - [Introducing BitVM20 - A token standard on Bitcoin](https://drive.google.com/file/d/1PZLU8tVgDBgvVoCND2-lF-GPRC_Kvuxy/view)
+- [Optimizing Algorithms for Bitcoin Script (Part 2)](https://bitvmx.org/knowledge/optimizing-algorithms-for-bitcoin-script-part-2)
   
 ## Videos
 
