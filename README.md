@@ -135,7 +135,8 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [The Security Tradeoffs of Validating Bridges](https://fairgate.io/post/1-the-security-tradeoffs-of-validating-bridges)
 - [Introducing BitVM20 - A token standard on Bitcoin](https://drive.google.com/file/d/1PZLU8tVgDBgvVoCND2-lF-GPRC_Kvuxy/view)
 - [Optimizing Algorithms for Bitcoin Script (Part 2)](https://bitvmx.org/knowledge/optimizing-algorithms-for-bitcoin-script-part-2)
-  
+- [What Is Bitcoin DeFi: The Rise of BTCFi](https://learn.bybit.com/bitcoin/what-is-bitcoin-defi-btcfi/)
+
 ## Videos
 
 - [What is BitVM?](https://www.youtube.com/watch?v=XxqQU6j6jI8)
