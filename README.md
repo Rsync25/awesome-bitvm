@@ -166,7 +166,8 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Interactive SNARK Verification on Bitcoin using BitVMX](https://www.youtube.com/watch?v=ysXlM_0yAFs)
 - [Second layers and other projects on top of bitcoin](https://braiins.com/blog/second-layers-and-other-projects-on-top-of-bitcoin)
 - [BitVM2 Explained with Alexei Zamyatin](https://www.youtube.com/watch?v=aOlPZ0o1UEY)
-- [ BitVM: Innovation Without a Soft Fork w/ Robin Linus, Jeremy Rubin, Liam Eagen & Weikeng Chen](https://www.youtube.com/watch?v=c1CW1v4u99g)
+- [BitVM: Innovation Without a Soft Fork w/ Robin Linus, Jeremy Rubin, Liam Eagen & Weikeng Chen](https://www.youtube.com/watch?v=c1CW1v4u99g)
+- [The Evolution of BitVM: From Inception to Breakthrough](https://www.youtube.com/watch?v=xZ4_oIvakdU)
 
 ## Libraries
 
