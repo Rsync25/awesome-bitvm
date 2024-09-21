@@ -66,6 +66,7 @@ In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/B
 - [BitVM bridge comparison table](https://gist.github.com/john-light/e0cf9ae8a3a68d0d8e80edb25585b64b)
 - [Tree++](https://bitvm.org/treeplusplus.html)
 - [BitVM2: Bridging Bitcoin to Second Layers](https://bitvm.org/bitvm_bridge.pdf)
+- [Shielded CSV 🛡️: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
   
 ## Tech Overview
 
@@ -137,6 +138,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Optimizing Algorithms for Bitcoin Script (Part 2)](https://bitvmx.org/knowledge/optimizing-algorithms-for-bitcoin-script-part-2)
 - [What Is Bitcoin DeFi: The Rise of BTCFi](https://learn.bybit.com/bitcoin/what-is-bitcoin-defi-btcfi/)
 - [What Are The Challenges Ahead for Bitcoin?](https://www.ledger.com/blog-what-are-the-challenges-ahead-for-bitcoin)
+- [Optimizing Algorithms for Bitcoin Script (Part 3)](https://bitvmx.org/knowledge/optimizing-algorithms-for-bitcoin-script-part-3)
 
 ## Videos
 
