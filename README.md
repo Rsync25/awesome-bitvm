@@ -139,6 +139,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [What Is Bitcoin DeFi: The Rise of BTCFi](https://learn.bybit.com/bitcoin/what-is-bitcoin-defi-btcfi/)
 - [What Are The Challenges Ahead for Bitcoin?](https://www.ledger.com/blog-what-are-the-challenges-ahead-for-bitcoin)
 - [Optimizing Algorithms for Bitcoin Script (Part 3)](https://bitvmx.org/knowledge/optimizing-algorithms-for-bitcoin-script-part-3)
+- [The Evolution of Computation on Bitcoin: Introducing BitVM and BitVMx](https://medium.com/coinmonks/the-evolution-of-computation-on-bitcoin-introducing-bitvm-and-bitvmx-e3628666823b)
 
 ## Videos
 
