@@ -173,6 +173,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVM2 Explained with Alexei Zamyatin](https://www.youtube.com/watch?v=aOlPZ0o1UEY)
 - [BitVM: Innovation Without a Soft Fork w/ Robin Linus, Jeremy Rubin, Liam Eagen & Weikeng Chen](https://www.youtube.com/watch?v=c1CW1v4u99g)
 - [The Evolution of BitVM: From Inception to Breakthrough](https://www.youtube.com/watch?v=xZ4_oIvakdU)
+- [First release of BitVMX implementation: Union Bridge by Rootstock](https://www.youtube.com/watch?v=2c3JX-VS9m0)
 
 ## Libraries
 
