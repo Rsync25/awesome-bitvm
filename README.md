@@ -141,6 +141,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Optimizing Algorithms for Bitcoin Script (Part 3)](https://bitvmx.org/knowledge/optimizing-algorithms-for-bitcoin-script-part-3)
 - [The Evolution of Computation on Bitcoin: Introducing BitVM and BitVMx](https://medium.com/coinmonks/the-evolution-of-computation-on-bitcoin-introducing-bitvm-and-bitvmx-e3628666823b)
 - [Yona Research: Ways to Connect to Liquidity in Bitcoin](https://blog.yona.network/yona-research-ways-to-connect-to-liquidity-in-bitcoin/)
+- [Union Bridge: The Trustless Bridge Between BTC and Rootstock Powered by BitVMX](https://www.rootstocklabs.com/content-hub/union-bridge/_
 
 ## Videos
 
