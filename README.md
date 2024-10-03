@@ -26,10 +26,9 @@ In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/B
 
 ### Potential Use Case
 
-- Complex smart contracts
+- Complex smart contracts (ex. multisig, bridges...)
 - Prediction Markets
 - Privacy
-- Multisig
 - 2WP for sidechains (Pegin and Pegout)
 - Bridges (on-chain <> sidechain)
 - Compatible with BIP-300/301
