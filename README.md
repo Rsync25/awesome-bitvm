@@ -173,6 +173,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVM: Innovation Without a Soft Fork w/ Robin Linus, Jeremy Rubin, Liam Eagen & Weikeng Chen](https://www.youtube.com/watch?v=c1CW1v4u99g)
 - [The Evolution of BitVM: From Inception to Breakthrough](https://www.youtube.com/watch?v=xZ4_oIvakdU)
 - [First release of BitVMX implementation: Union Bridge by Rootstock](https://www.youtube.com/watch?v=2c3JX-VS9m0)
+- [Bitcoin Layer 2: Sidechains and Rollups Become the Mainstream Paths](https://www.gate.io/learn/articles/bitcoin-layer-2-sidechains-and-rollups-become-the-mainstream-paths/4294)
 
 ## Libraries
 
