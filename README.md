@@ -202,6 +202,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVMX CPU](https://github.com/FairgateLabs/BitVMX-CPU)
 - [Rust Bitcoin Script Stack](https://github.com/FairgateLabs/rust-bitcoin-script-stack)
 - [Sherlock script](https://github.com/BitVM/sherlock-script)
+- [BitVMX protocol implementation](https://github.com/FairgateLabs/bitvmx_protocol)
 
 # Apps
 
