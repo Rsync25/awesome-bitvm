@@ -142,6 +142,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Yona Research: Ways to Connect to Liquidity in Bitcoin](https://blog.yona.network/yona-research-ways-to-connect-to-liquidity-in-bitcoin/)
 - [Union Bridge: The Trustless Bridge Between BTC and Rootstock Powered by BitVMX](https://www.rootstocklabs.com/content-hub/union-bridge/)
 - [State of SNARK verification with BitVM2](https://www.alpenlabs.io/blog/state-of-snark-verification-with-bitvm2)
+- [BitSNARK vs. BitVM vs. BitVM2: A Comparison Guide](https://sovryn.com/all-things-sovryn/bitsnark-bitvm-bitvm2)
 
 ## Videos
 
