@@ -66,6 +66,7 @@ In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/B
 - [Tree++](https://bitvm.org/treeplusplus.html)
 - [BitVM2: Bridging Bitcoin to Second Layers](https://bitvm.org/bitvm_bridge.pdf)
 - [Shielded CSV 🛡️: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
+- [BitVM Alliance](https://x.com/ZeroSync_/status/1848731786748301524)
   
 ## Tech Overview
 
