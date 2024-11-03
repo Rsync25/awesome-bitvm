@@ -207,6 +207,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Rust Bitcoin Script Stack](https://github.com/FairgateLabs/rust-bitcoin-script-stack)
 - [Sherlock script](https://github.com/BitVM/sherlock-script)
 - [BitVMX protocol implementation](https://github.com/FairgateLabs/bitvmx_protocol)
+- [risc0-to-fflonk](https://github.com/chainwayxyz/risc0-to-bitvm2)
 
 # Apps
 
