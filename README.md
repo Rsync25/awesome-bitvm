@@ -179,6 +179,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [The Evolution of BitVM: From Inception to Breakthrough](https://www.youtube.com/watch?v=xZ4_oIvakdU)
 - [First release of BitVMX implementation: Union Bridge by Rootstock](https://www.youtube.com/watch?v=2c3JX-VS9m0)
 - [Bitcoin Layer 2: Sidechains and Rollups Become the Mainstream Paths](https://www.gate.io/learn/articles/bitcoin-layer-2-sidechains-and-rollups-become-the-mainstream-paths/4294)
+- [How BitVM enables ZK rollups on Bitcoin](https://www.youtube.com/watch?v=02GHI132NHQ)
 
 ## Libraries
 
