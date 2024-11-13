@@ -180,6 +180,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [First release of BitVMX implementation: Union Bridge by Rootstock](https://www.youtube.com/watch?v=2c3JX-VS9m0)
 - [Bitcoin Layer 2: Sidechains and Rollups Become the Mainstream Paths](https://www.gate.io/learn/articles/bitcoin-layer-2-sidechains-and-rollups-become-the-mainstream-paths/4294)
 - [How BitVM enables ZK rollups on Bitcoin](https://www.youtube.com/watch?v=02GHI132NHQ)
+- [Citrea: Modular Rollup Framework on Bitcoin - Orkun Mahir Kilic. Ep. 573](https://www.youtube.com/watch?v=6Ww-JSgPprA)
 
 ## Libraries
 
@@ -210,7 +211,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitVMX protocol implementation](https://github.com/FairgateLabs/bitvmx_protocol)
 - [risc0-to-fflonk](https://github.com/chainwayxyz/risc0-to-bitvm2)
 
-# Apps
+# Sidechains
 
 - [BitLDC (Bitcoin Life/Death Certificate) Protocol](https://github.com/araujo88/BitLDC)
 - [ASM to Bin](https://magical-frangipane-149aba.netlify.app/compiler)
