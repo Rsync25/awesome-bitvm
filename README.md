@@ -147,6 +147,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [BitSNARK vs. BitVM vs. BitVM2: A Comparison Guide](https://sovryn.com/all-things-sovryn/bitsnark-bitvm-bitvm2)
 - [Four Mainstream Bitcoin Scaling Solutions: Which Will Unlock BTCFi's Trillion-Dollar Potential?](https://www.gate.io/learn/articles/four-mainstream-bitcoin-scaling-solutions-which-will-unlock-btcfis-trillion-dollar-potential/4472)
 - [The Practical Economics of a BitVM Bridge](https://www.galaxy.com/insights/perspectives/the-practical-economics-of-a-bitvm-bridge/)
+- [How Viable Are BitVM Based Pegs?](https://bitcoinmagazine.com/technical/how-viable-are-bitvm-based-pegs)
 
 ## Videos
 
