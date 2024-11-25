@@ -212,6 +212,8 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Sherlock script](https://github.com/BitVM/sherlock-script)
 - [BitVMX protocol implementation](https://github.com/FairgateLabs/bitvmx_protocol)
 - [risc0-to-fflonk](https://github.com/chainwayxyz/risc0-to-bitvm2)
+- [Docker RISCV32 Build Enviornment](https://github.com/FairgateLabs/bitvmx-docker-riscv32)
+- [Build BitVMX ZK-Proof](https://github.com/FairgateLabs/rust-bitvmx-zk-proof)
 
 # Sidechains
 
