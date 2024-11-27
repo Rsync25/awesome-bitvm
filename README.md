@@ -68,6 +68,7 @@ In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/B
 - [Shielded CSV 🛡️: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
 - [BitVM Alliance](https://x.com/ZeroSync_/status/1848731786748301524)
 - [Push-Button Verification for BitVM Implementations](https://eprint.iacr.org/2024/1768)
+- [Un-FE’d Covenants: Char-ting a new path to Emulated Covenants via BitVM Integrity Checks](https://groups.google.com/g/bitcoindev/c/5pFFi8C0lqc?pli=1)
   
 ## Tech Overview
 
@@ -215,6 +216,10 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Docker RISCV32 Build Enviornment](https://github.com/FairgateLabs/bitvmx-docker-riscv32)
 - [Build BitVMX ZK-Proof](https://github.com/FairgateLabs/rust-bitvmx-zk-proof)
 
+## Tools
+
+- [BitVM IDE](https://bitvm-ide.nubit.org/)
+  
 # Sidechains
 
 - [BitLDC (Bitcoin Life/Death Certificate) Protocol](https://github.com/araujo88/BitLDC)
