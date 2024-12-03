@@ -31,7 +31,7 @@ In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/B
 - Privacy
 - 2WP for sidechains (Pegin and Pegout)
 - Bridges (on-chain <> sidechain)
-- Compatible with BIP-300/301
+- Compatible with BIP-300/301 (basic)
 - Low cost
 - Compatible with Groth16 and ZK
 - Rollups (ZK)
