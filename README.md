@@ -150,6 +150,9 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [The Practical Economics of a BitVM Bridge](https://www.galaxy.com/insights/perspectives/the-practical-economics-of-a-bitvm-bridge/)
 - [How Viable Are BitVM Based Pegs?](https://bitcoinmagazine.com/technical/how-viable-are-bitvm-based-pegs)
 - [ A Review of the the BitVM2-based "Linus24" Bridge](https://www.fairgate.io/post/3-a-review-of-the-the-bitvm2-based-linus24-bridge)
+- [Unlocking Bitcoin’s Potential with BitVM: Bridging Functionality and Security](https://medium.com/nubit-official/unlocking-bitcoins-potential-with-bitvm-bridging-functionality-and-security-8b6eba454ec5)
+- [Robin Linus: Scaling Crypto’s Premier Network](https://www.coindesk.com/tech/2024/12/10/robin-linus-scaling-crypto-s-premier-network)
+
 
 ## Videos
 
@@ -185,6 +188,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Bitcoin Layer 2: Sidechains and Rollups Become the Mainstream Paths](https://www.gate.io/learn/articles/bitcoin-layer-2-sidechains-and-rollups-become-the-mainstream-paths/4294)
 - [How BitVM enables ZK rollups on Bitcoin](https://www.youtube.com/watch?v=02GHI132NHQ)
 - [Citrea: Modular Rollup Framework on Bitcoin - Orkun Mahir Kilic. Ep. 573](https://www.youtube.com/watch?v=6Ww-JSgPprA)
+- [Make Bitcoin Cypherpunk Again! - TABConf 6](https://www.youtube.com/watch?v=zoHriUbvOss)
 
 ## Libraries
 
