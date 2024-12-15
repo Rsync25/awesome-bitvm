@@ -15,15 +15,6 @@ BitVM is a computing paradigm to express Turing-complete Bitcoin contracts. This
 
 Committing to a large program in a Taproot address requires significant amounts of off-chain computation and communication, however the resulting on-chain footprint is minimal. As long as both parties collaborate, they can perform arbitrarily complex, stateful off-chain computation, without leaving any trace in the chain. On-chain execution is required only in case of a dispute.
 
-## Status Software
-
-Currenctly BitVM is under development allows developers create bridges for now and some apps.
-
-In the last update, BitVM now support [SHA256 script](https://github.com/BitVM/BitVM/pull/65)
-
-[A PR from PayneJoe and Antalpha Labs reducing the size of the Groth16 verifier from ~4GB down to 2.9GB.](https://github.com/BitVM/BitVM/pull/83)
-
-
 ### Potential Use Case
 
 - Complex smart contracts (ex. multisig, bridges...)
