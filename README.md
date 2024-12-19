@@ -19,7 +19,6 @@ Committing to a large program in a Taproot address requires significant amounts 
 
 - Complex smart contracts (ex. multisig, bridges...)
 - Prediction Markets
-- Privacy
 - 2WP for sidechains (Pegin and Pegout)
 - Bridges (on-chain <> sidechain)
 - Compatible with BIP-300/301 (basic)
