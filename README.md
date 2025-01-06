@@ -23,7 +23,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - Bridges (on-chain <> sidechain)
 - Compatible with BIP-300/301 (basic)
 - Low cost
-- Compatible with Groth16 and ZK
+- Compatible with Groth16 and ZK proof
 - Rollups (ZK)
 
 ## Resources
