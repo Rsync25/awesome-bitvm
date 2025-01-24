@@ -143,6 +143,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Unlocking Bitcoin’s Potential with BitVM: Bridging Functionality and Security](https://medium.com/nubit-official/unlocking-bitcoins-potential-with-bitvm-bridging-functionality-and-security-8b6eba454ec5)
 - [Robin Linus: Scaling Crypto’s Premier Network](https://www.coindesk.com/tech/2024/12/10/robin-linus-scaling-crypto-s-premier-network)
 - [Breaking down Bitcoin bridges: Insights from RootstockLabs](https://cointelegraph.com/news/breaking-down-bitcoin-bridges-rootstocklabs)
+- [PKMN_BTTL: A Pokemon Battle Game, Written in Zig and Executed with BitVMX](https://blog.rootstock.io/noticia/pkmn_bttl-a-pokemon-battle-game-written-in-zig-and-executed-with-bitvmx/)
 
 
 ## Videos
