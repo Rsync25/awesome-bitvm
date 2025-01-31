@@ -181,6 +181,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [How BitVM enables ZK rollups on Bitcoin](https://www.youtube.com/watch?v=02GHI132NHQ)
 - [Citrea: Modular Rollup Framework on Bitcoin - Orkun Mahir Kilic. Ep. 573](https://www.youtube.com/watch?v=6Ww-JSgPprA)
 - [Make Bitcoin Cypherpunk Again! - TABConf 6](https://www.youtube.com/watch?v=zoHriUbvOss)
+- [What is Bitlayer - The First Bitcoin Layer 2 Based on the BitVM Paradigm?](https://www.youtube.com/watch?v=L4-uRMp6WsA)
 
 ## Libraries
 
