@@ -59,6 +59,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [BitVM Alliance](https://x.com/ZeroSync_/status/1848731786748301524)
 - [Push-Button Verification for BitVM Implementations](https://eprint.iacr.org/2024/1768)
 - [Un-FE’d Covenants: Char-ting a new path to Emulated Covenants via BitVM Integrity Checks](https://groups.google.com/g/bitcoindev/c/5pFFi8C0lqc?pli=1)
+- [BitVM Developer Preview](https://bitvm.org/demo/)
   
 ## Tech Overview
 
@@ -144,6 +145,8 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Robin Linus: Scaling Crypto’s Premier Network](https://www.coindesk.com/tech/2024/12/10/robin-linus-scaling-crypto-s-premier-network)
 - [Breaking down Bitcoin bridges: Insights from RootstockLabs](https://cointelegraph.com/news/breaking-down-bitcoin-bridges-rootstocklabs)
 - [PKMN_BTTL: A Pokemon Battle Game, Written in Zig and Executed with BitVMX](https://blog.rootstock.io/noticia/pkmn_bttl-a-pokemon-battle-game-written-in-zig-and-executed-with-bitvmx/)
+- [An Overview of Bitcoin Virtual Machine (BitVM)](https://www.fidelitydigitalassets.com/research-and-insights/overview-bitcoin-virtual-machine-bitvm)
+- [BitVM Just Got A Massive Upgrade](https://bitcoinmagazine.com/takes/bitvm-just-got-a-massive-upgrade)
 
 
 ## Videos
