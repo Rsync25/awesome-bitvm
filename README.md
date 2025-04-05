@@ -60,6 +60,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [Push-Button Verification for BitVM Implementations](https://eprint.iacr.org/2024/1768)
 - [Un-FE’d Covenants: Char-ting a new path to Emulated Covenants via BitVM Integrity Checks](https://groups.google.com/g/bitcoindev/c/5pFFi8C0lqc?pli=1)
 - [BitVM Developer Preview](https://bitvm.org/demo/)
+- [Delbrag circuit proposal by Jeremy Run](https://rubin.io/bitcoin/2025/04/04/delbrag/)
   
 ## Tech Overview
 
