@@ -61,6 +61,8 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [Un-FE’d Covenants: Char-ting a new path to Emulated Covenants via BitVM Integrity Checks](https://groups.google.com/g/bitcoindev/c/5pFFi8C0lqc?pli=1)
 - [BitVM Developer Preview](https://bitvm.org/demo/)
 - [Delbrag circuit proposal by Jeremy Rubin](https://rubin.io/bitcoin/2025/04/04/delbrag/)
+- [How CTV+CSFS improves BitVM bridges by Robin Linus](https://delvingbitcoin.org/t/how-ctv-csfs-improves-bitvm-bridges/1591)
+- [ESSPI: ECDSA/Schnorr Signed Program Input for BitVMX](https://bitvmx.org/files/esspi-ecdsa-input-bitvmx.pdf)
   
 ## Tech Overview
 
@@ -148,6 +150,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [PKMN_BTTL: A Pokemon Battle Game, Written in Zig and Executed with BitVMX](https://blog.rootstock.io/noticia/pkmn_bttl-a-pokemon-battle-game-written-in-zig-and-executed-with-bitvmx/)
 - [An Overview of Bitcoin Virtual Machine (BitVM)](https://www.fidelitydigitalassets.com/research-and-insights/overview-bitcoin-virtual-machine-bitvm)
 - [BitVM Just Got A Massive Upgrade](https://bitcoinmagazine.com/takes/bitvm-just-got-a-massive-upgrade)
+- [Fairgate, Rootstock Labs, and Input | Output Launch BitVMX FORCE to Advance Bitcoin’s Scalability](https://bitvmx.org/force/press)
 
 
 ## Videos
