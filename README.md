@@ -151,6 +151,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [An Overview of Bitcoin Virtual Machine (BitVM)](https://www.fidelitydigitalassets.com/research-and-insights/overview-bitcoin-virtual-machine-bitvm)
 - [BitVM Just Got A Massive Upgrade](https://bitcoinmagazine.com/takes/bitvm-just-got-a-massive-upgrade)
 - [Fairgate, Rootstock Labs, and Input | Output Launch BitVMX FORCE to Advance Bitcoin’s Scalability](https://bitvmx.org/force/press)
+- [Why RISC-V is the Optimal Architecture for the BitVMX Proving System](https://bitvmx.org/knowledge/why-risc-v-is-the-optimal-architecture-for-the-bitvmx-proving-system)
 
 
 ## Videos
@@ -189,6 +190,7 @@ Since BitVM gate, many developers joined into development of protocol. Follow be
 - [Citrea: Modular Rollup Framework on Bitcoin - Orkun Mahir Kilic. Ep. 573](https://www.youtube.com/watch?v=6Ww-JSgPprA)
 - [Make Bitcoin Cypherpunk Again! - TABConf 6](https://www.youtube.com/watch?v=zoHriUbvOss)
 - [What is Bitlayer - The First Bitcoin Layer 2 Based on the BitVM Paradigm?](https://www.youtube.com/watch?v=L4-uRMp6WsA)
+- [Practical Bitcoin BitVM Bridges |Ekrem Bal | OPNEXT 2025](https://www.youtube.com/watch?v=XfXrx-eoEZ8&list=PLDoWOGC_LqgMVew7-eKPCUX9TuRF6xy7s&index=10)
 
 ## Libraries
 
